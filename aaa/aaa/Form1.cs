@@ -12,9 +12,18 @@ namespace aaa
 {
     public partial class Form1 : Form
     {
+        Employee employee = null;
         public Form1()
         {
             InitializeComponent();
+            employee = new Employee();
+            employee.name = "小李";
+            employee.code = "001";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = employee.name;
         }
     }
 }
