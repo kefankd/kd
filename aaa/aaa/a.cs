@@ -8,6 +8,7 @@ namespace aaa
 {
     class a
     {
+
                 public string aaa { get; set; }
     }
 }
