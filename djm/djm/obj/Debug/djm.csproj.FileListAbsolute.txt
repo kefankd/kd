@@ -17,3 +17,14 @@ D:\wyc\kd\djm\djm\obj\Debug\djm.csproj.CoreCompileInputs.cache
 D:\wyc\kd\djm\djm\obj\Debug\djm.exe
 D:\wyc\kd\djm\djm\obj\Debug\djm.pdb
 D:\wyc\kd\djm\djm\obj\Debug\djm.Form1.resources
+D:\djm\kd\djm\djm\obj\Debug\djm.csprojAssemblyReference.cache
+D:\djm\kd\djm\djm\obj\Debug\djm.Properties.Resources.resources
+D:\djm\kd\djm\djm\obj\Debug\djm.csproj.GenerateResource.cache
+D:\djm\kd\djm\djm\obj\Debug\djm.exe
+D:\djm\kd\djm\djm\obj\Debug\djm.pdb
+D:\djm\kd\djm\djm\bin\Debug\djm.exe.config
+D:\djm\kd\djm\djm\bin\Debug\djm.exe
+D:\djm\kd\djm\djm\bin\Debug\djm.pdb
+D:\djm\kd\djm\djm\obj\Debug\djm.Form1.resources
+D:\djm\kd\djm\djm\obj\Debug\djm.csproj.CoreCompileInputs.cache
+D:\djm\kd\djm\djm\obj\Debug\djm.Form2.resources
