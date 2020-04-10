@@ -12,5 +12,7 @@ namespace aaa
 
         public string aaa1 { get; set; }
         public string aaa2 { get; set; }
+        public string aaa6 { get; set; }
+        public string aaa5 { get; set; }
     }
 }
