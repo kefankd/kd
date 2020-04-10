@@ -10,5 +10,7 @@ namespace aaa
     {
        public string aaa { get; set; }
        public string ccc { get; set; }
+
+        public string ccc1 { get; set; }
     }
 }
