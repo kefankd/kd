@@ -9,5 +9,6 @@ namespace djm
     public class abc
     {
         public string name { get; set; }
+        public string address { get; set; }
     }
 }
