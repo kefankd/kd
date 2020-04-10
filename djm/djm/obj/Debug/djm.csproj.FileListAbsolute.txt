@@ -1,0 +1,9 @@
+D:\djm\djm\djm\bin\Debug\djm.exe.config
+D:\djm\djm\djm\bin\Debug\djm.exe
+D:\djm\djm\djm\bin\Debug\djm.pdb
+D:\djm\djm\djm\obj\Debug\djm.csprojAssemblyReference.cache
+D:\djm\djm\djm\obj\Debug\djm.Properties.Resources.resources
+D:\djm\djm\djm\obj\Debug\djm.csproj.GenerateResource.cache
+D:\djm\djm\djm\obj\Debug\djm.csproj.CoreCompileInputs.cache
+D:\djm\djm\djm\obj\Debug\djm.exe
+D:\djm\djm\djm\obj\Debug\djm.pdb
