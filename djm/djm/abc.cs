@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace djm
 {
-    class abc
+    public class abc
     {
     }
 }
